@@ -1,0 +1,12 @@
+{
+ "keys": [
+  {
+   "kty": "RSA",
+   "use": "sig",
+   "alg": "RS256",
+   "kid": "zzforge1",
+   "n": "56grIDhzBtJsIx8LNdle1XpplAbPPtj-Wyopd9-50pzIvuMt1_qQj9y9qzQDr7OBlZJpSX1wNT8DLtg47u95cQ_z0ame1DP8zMXnoP8tLU1FEMk2TBZ6XihHwy05rVITutoEtXXjp5XRxLTOoHZxUQCMgnNvxYF5f5KUm5YwmeicELK8UAG1HwkAnhAI4GJDIyMI_yHHHksEZIAr8x6V2E0OC20InVw30K5bhVnftIp-BL6kmm9yO7UysH0Dsj8kE9bNpjljlsQthLb7ix9WvnLFksHp3_t0z_w7skz2Vg-3rqDLL3DUg0b-FXMlQIXY3Zs_87HKrRUjXXhc0BAdzw",
+   "e": "AQAB"
+  }
+ ]
+}
