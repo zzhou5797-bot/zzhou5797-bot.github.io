@@ -1,9 +1,9 @@
 {
  "issuer": "https://zzhou5797-bot.github.io",
- "authorizationEndpoint": "http://10.5.3.58/authorize",
- "tokenEndpoint": "http://10.5.3.58/token",
- "registrationEndpoint": "http://10.5.3.58/register",
- "jwksUri": "http://10.5.3.58/jwks",
+ "authorizationEndpoint": "https://10.5.3.58/authorize",
+ "tokenEndpoint": "https://10.5.3.58/token",
+ "registrationEndpoint": "https://10.5.3.58/register",
+ "jwksUri": "https://10.5.3.58/jwks",
  "responseTypesSupported": [
   "code"
  ],
@@ -13,10 +13,10 @@
  "codeChallengeMethodsSupported": [
   "S256"
  ],
- "authorization_endpoint": "http://10.5.3.58/authorize",
- "token_endpoint": "http://10.5.3.58/token",
- "registration_endpoint": "http://10.5.3.58/register",
- "jwks_uri": "http://10.5.3.58/jwks",
+ "authorization_endpoint": "https://10.5.3.58/authorize",
+ "token_endpoint": "https://10.5.3.58/token",
+ "registration_endpoint": "https://10.5.3.58/register",
+ "jwks_uri": "https://10.5.3.58/jwks",
  "response_types_supported": [
   "code"
  ],

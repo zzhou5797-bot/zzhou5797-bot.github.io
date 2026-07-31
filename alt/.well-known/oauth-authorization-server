@@ -1,0 +1,36 @@
+{
+ "issuer": "https://zzhou5797-bot.github.io",
+ "authorizationEndpoint": "https://dox-private.grammarly.com/authorize",
+ "tokenEndpoint": "https://dox-private.grammarly.com/token",
+ "registrationEndpoint": "https://dox-private.grammarly.com/register",
+ "jwksUri": "https://dox-private.grammarly.com/jwks",
+ "responseTypesSupported": [
+  "code"
+ ],
+ "grantTypesSupported": [
+  "authorization_code"
+ ],
+ "codeChallengeMethodsSupported": [
+  "S256"
+ ],
+ "authorization_endpoint": "https://dox-private.grammarly.com/authorize",
+ "token_endpoint": "https://dox-private.grammarly.com/token",
+ "registration_endpoint": "https://dox-private.grammarly.com/register",
+ "jwks_uri": "https://dox-private.grammarly.com/jwks",
+ "response_types_supported": [
+  "code"
+ ],
+ "grant_types_supported": [
+  "authorization_code"
+ ],
+ "code_challenge_methods_supported": [
+  "S256"
+ ],
+ "token_endpoint_auth_methods_supported": [
+  "none",
+  "client_secret_post"
+ ],
+ "scopes_supported": [
+  "openid"
+ ]
+}
