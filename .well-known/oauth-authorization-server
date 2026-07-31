@@ -1,9 +1,9 @@
 {
  "issuer": "https://zzhou5797-bot.github.io",
- "authorizationEndpoint": "https://webhook.site/90441544-b886-4dbb-a4fc-bc129e409020/authorize",
- "tokenEndpoint": "https://webhook.site/90441544-b886-4dbb-a4fc-bc129e409020/token",
- "registrationEndpoint": "https://webhook.site/90441544-b886-4dbb-a4fc-bc129e409020/register",
- "jwksUri": "https://webhook.site/90441544-b886-4dbb-a4fc-bc129e409020/jwks",
+ "authorizationEndpoint": "http://10.5.3.58/authorize",
+ "tokenEndpoint": "http://10.5.3.58/token",
+ "registrationEndpoint": "http://10.5.3.58/register",
+ "jwksUri": "http://10.5.3.58/jwks",
  "responseTypesSupported": [
   "code"
  ],
@@ -13,14 +13,10 @@
  "codeChallengeMethodsSupported": [
   "S256"
  ],
- "crossDomainAuth": {
-  "mcpServerDomain": "zzhou5797-bot.github.io",
-  "authServerDomain": "webhook.site"
- },
- "authorization_endpoint": "https://webhook.site/90441544-b886-4dbb-a4fc-bc129e409020/authorize",
- "token_endpoint": "https://webhook.site/90441544-b886-4dbb-a4fc-bc129e409020/token",
- "registration_endpoint": "https://webhook.site/90441544-b886-4dbb-a4fc-bc129e409020/register",
- "jwks_uri": "https://webhook.site/90441544-b886-4dbb-a4fc-bc129e409020/jwks",
+ "authorization_endpoint": "http://10.5.3.58/authorize",
+ "token_endpoint": "http://10.5.3.58/token",
+ "registration_endpoint": "http://10.5.3.58/register",
+ "jwks_uri": "http://10.5.3.58/jwks",
  "response_types_supported": [
   "code"
  ],
