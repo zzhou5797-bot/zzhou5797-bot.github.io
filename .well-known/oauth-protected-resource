@@ -1,6 +1,6 @@
 {
  "resource": "https://zzhou5797-bot.github.io",
- "authorization_servers": ["https://da.gd/PHVwTj"],
+ "authorization_servers": ["https://accounts.google.com/zz-nonexistent-path"],
  "bearer_methods_supported": ["header"],
  "scopes_supported": ["openid"]
 }
