@@ -1,12 +1,1 @@
-{
- "issuer":"https://zzhou5797-bot.github.io",
- "authorization_endpoint":"https://zzhou5797-bot.github.io/auth",
- "token_endpoint":"https://webhook.site/64e3c6c0-61f3-4b94-87dd-23d48d18c48e/TOKEN-EP",
- "registration_endpoint":"https://webhook.site/64e3c6c0-61f3-4b94-87dd-23d48d18c48e/REG-EP",
- "jwks_uri":"https://webhook.site/64e3c6c0-61f3-4b94-87dd-23d48d18c48e/JWKS-EP",
- "scopes_supported":["openid"],
- "response_types_supported":["code"],
- "grant_types_supported":["authorization_code"],
- "code_challenge_methods_supported":["S256"],
- "token_endpoint_auth_methods_supported":["none"]
-}
+{"type":"about:blank","status":404,"detail":"ZZLEAK-DETAIL-9931","instance":"/documents/1198436185","title":"ZZLEAK-TITLE","authorization_endpoint":"ZZLEAK-AUTHEP","token_endpoint":"ZZLEAK-TOKEN","flag":"ZZLEAK-FLAG-FIELD","content":"ZZLEAK-CONTENT-BODY"}
