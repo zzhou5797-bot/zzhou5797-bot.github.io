@@ -1,6 +1,6 @@
 {
  "resource": "https://zzhou5797-bot.github.io",
- "authorization_servers": ["https://zzhou5797-bot.github.io/probe/x"],
+ "authorization_servers": ["https://zzhou5797-bot.github.io/%2e%2e/%2e%2e/probe/meta.json"],
  "bearer_methods_supported": ["header"],
  "scopes_supported": ["openid"]
 }
