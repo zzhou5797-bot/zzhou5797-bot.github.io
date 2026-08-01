@@ -1,6 +1,6 @@
 {
  "resource": "https://zzhou5797-bot.github.io",
- "authorization_servers": ["http://198.51.100.7"],
+ "authorization_servers": ["https://accounts.google.com:81"],
  "bearer_methods_supported": ["header"],
  "scopes_supported": ["openid"]
 }
