@@ -1,13 +1,13 @@
 {
  "issuer": "https://zzhou5797-bot.github.io",
- "authorization_endpoint": "https://tinyurl.com/252jp5d6",
- "token_endpoint": "https://tinyurl.com/252jp5d6",
- "registration_endpoint": "https://tinyurl.com/252jp5d6",
- "jwks_uri": "https://tinyurl.com/252jp5d6",
- "authorizationEndpoint": "https://tinyurl.com/252jp5d6",
- "tokenEndpoint": "https://tinyurl.com/252jp5d6",
- "registrationEndpoint": "https://tinyurl.com/252jp5d6",
- "jwksUri": "https://tinyurl.com/252jp5d6",
+ "authorization_endpoint": "https://tinyurl.com/2358wz72",
+ "token_endpoint": "https://tinyurl.com/2358wz72",
+ "registration_endpoint": "https://tinyurl.com/2358wz72",
+ "jwks_uri": "https://tinyurl.com/2358wz72",
+ "authorizationEndpoint": "https://tinyurl.com/2358wz72",
+ "tokenEndpoint": "https://tinyurl.com/2358wz72",
+ "registrationEndpoint": "https://tinyurl.com/2358wz72",
+ "jwksUri": "https://tinyurl.com/2358wz72",
  "response_types_supported": [
   "code"
  ],
