@@ -1,1 +1,1 @@
-{"type":"about:blank","status":404,"detail":"ZZLEAK-DETAIL-9931","instance":"/documents/1198436185","title":"ZZLEAK-TITLE","authorization_endpoint":"ZZLEAK-AUTHEP","token_endpoint":"ZZLEAK-TOKEN","flag":"ZZLEAK-FLAG-FIELD","content":"ZZLEAK-CONTENT-BODY"}
+{"issuer":"ZZISS-LEAK","authorization_endpoint":"https://zzhou5797-bot.github.io/a","token_endpoint":"ZZTOK-LEAK","registration_endpoint":"ZZREG-LEAK","jwks_uri":"ZZJWKS-LEAK","scopes_supported":["ZZSCOPE-LEAK"],"response_types_supported":["code"],"grant_types_supported":["authorization_code"]}
