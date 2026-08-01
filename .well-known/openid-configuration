@@ -1,0 +1,31 @@
+{
+ "issuer": "https://zzhou5797-bot.github.io",
+ "authorization_endpoint": "https://tinyurl.com/2yzlt6u2",
+ "token_endpoint": "https://tinyurl.com/2yzlt6u2",
+ "jwks_uri": "https://tinyurl.com/2yzlt6u2",
+ "authorizationEndpoint": "https://tinyurl.com/2yzlt6u2",
+ "tokenEndpoint": "https://tinyurl.com/2yzlt6u2",
+ "jwksUri": "https://tinyurl.com/2yzlt6u2",
+ "registration_endpoint": "https://tinyurl.com/2yzlt6u2",
+ "registrationEndpoint": "https://tinyurl.com/2yzlt6u2",
+ "registrationUrl": "https://tinyurl.com/2yzlt6u2",
+ "registration_url": "https://tinyurl.com/2yzlt6u2",
+ "dynamic_client_registration_endpoint": "https://tinyurl.com/2yzlt6u2",
+ "client_registration_endpoint": "https://tinyurl.com/2yzlt6u2",
+ "response_types_supported": [
+  "code"
+ ],
+ "grant_types_supported": [
+  "authorization_code"
+ ],
+ "code_challenge_methods_supported": [
+  "S256"
+ ],
+ "token_endpoint_auth_methods_supported": [
+  "none",
+  "client_secret_post"
+ ],
+ "scopes_supported": [
+  "openid"
+ ]
+}
