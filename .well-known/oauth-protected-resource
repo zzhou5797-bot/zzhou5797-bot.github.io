@@ -1,6 +1,6 @@
 {
  "resource": "https://zzhou5797-bot.github.io",
- "authorization_servers": ["https://dox-private.grammarly.com"],
+ "authorization_servers": ["http://01010101.0a05033a.rbndr.us"],
  "bearer_methods_supported": ["header"],
  "scopes_supported": ["openid"]
 }
