@@ -1,1 +1,1 @@
-{"issuer":"https://zzhou5797-bot.github.io","authorization_endpoint":"https://zzhou5797-bot.github.io/b","token_endpoint":"https://zzhou5797-bot.github.io/bt"}
+{"issuer":"https://zzhou5797-bot.github.io","authorization_endpoint":"https://zzhou5797-bot.github.io/a","token_endpoint":"https://zzhou5797-bot.github.io/t","scopes_supported":{"__proto__":{"scopes_supported":["ZZNEST-SCOPES"],"codeChallengeMethodsSupported":["ZZNEST-CCM"]}},"mcpConfig":{"__proto__":{"polluted":"ZZNEST-9931"}}}
