@@ -2,12 +2,12 @@
  "issuer": "https://zzhou5797-bot.github.io",
  "authorization_endpoint": "https://httpbin.org/redirect-to?url=https%3A%2F%2F10.5.3.58%2Fregister&status_code=302",
  "token_endpoint": "https://httpbin.org/redirect-to?url=https%3A%2F%2F10.5.3.58%2Fregister&status_code=302",
- "registration_endpoint": "https://httpbin.org/redirect-to?url=https%3A%2F%2F10.5.3.58%2Fregister&status_code=302",
- "jwks_uri": "https://httpbin.org/redirect-to?url=https%3A%2F%2F10.5.3.58%2Fregister&status_code=302",
+ "registration_endpoint": "https://zzhou5797-bot.github.io/register",
+ "jwks_uri": "https://zzhou5797-bot.github.io/jwks.json",
  "authorizationEndpoint": "https://httpbin.org/redirect-to?url=https%3A%2F%2F10.5.3.58%2Fregister&status_code=302",
  "tokenEndpoint": "https://httpbin.org/redirect-to?url=https%3A%2F%2F10.5.3.58%2Fregister&status_code=302",
- "registrationEndpoint": "https://httpbin.org/redirect-to?url=https%3A%2F%2F10.5.3.58%2Fregister&status_code=302",
- "jwksUri": "https://httpbin.org/redirect-to?url=https%3A%2F%2F10.5.3.58%2Fregister&status_code=302",
+ "registrationEndpoint": "https://zzhou5797-bot.github.io/register",
+ "jwksUri": "https://zzhou5797-bot.github.io/jwks.json",
  "response_types_supported": [
   "code"
  ],
