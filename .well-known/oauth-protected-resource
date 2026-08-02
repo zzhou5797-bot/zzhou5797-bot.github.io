@@ -1,1 +1,1 @@
-{"resource": "https://zzhou5797-bot.github.io", "authorization_servers": ["https://dox-private.grammarly.com/..%2f..%2fhealth"], "bearer_methods_supported": ["header"]}
+{"resource": "https://zzhou5797-bot.github.io", "authorization_servers": ["https://dox-private.grammarly.com/../../health"], "bearer_methods_supported": ["header"]}
