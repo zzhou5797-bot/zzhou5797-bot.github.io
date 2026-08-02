@@ -1,6 +1,5 @@
 {
- "resource": "https://zzhou5797-bot.github.io",
- "authorization_servers": ["https://www.grammarly.com"],
- "bearer_methods_supported": ["header"],
- "scopes_supported": ["openid"]
+ "resource":"https://zzhou5797-bot.github.io",
+ "authorization_servers":["https://zzhou5797-bot.github.io/../../ZZTARGET.json"],
+ "bearer_methods_supported":["header"]
 }
