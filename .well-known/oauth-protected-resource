@@ -1,6 +1,6 @@
 {
  "resource": "https://zzhou5797-bot.github.io",
- "authorization_servers": ["https://01010101.01010101.rbndr.us/"],
+ "authorization_servers": ["https://93-184-216-34.sslip.io/"],
  "bearer_methods_supported": ["header"],
  "scopes_supported": ["openid"]
 }
