@@ -1,1 +1,1 @@
-{"resource": "https://zzhou5797-bot.github.io", "authorization_servers": ["https://hb.cran.dev/..%2f..%2fresponse-headers?issuer=HBCRAN-HOSTED-7742&authorization_endpoint=https%3A%2F%2Fhb.cran.dev%2FHB-AUTH&token_endpoint=https%3A%2F%2Fhb.cran.dev%2FHB-TOK&response_types_supported=code"], "bearer_methods_supported": ["header"]}
+{"resource": "https://zzhou5797-bot.github.io", "authorization_servers": ["https://zzhou5797-bot.github.io/..%2f..%2fZZTARGET.json"], "bearer_methods_supported": ["header"]}
