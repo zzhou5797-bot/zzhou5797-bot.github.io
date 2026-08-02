@@ -1,17 +1,5 @@
 {
  "resource":"https://zzhou5797-bot.github.io",
- "authorization_servers":["{
- "resource":"https://zzhou5797-bot.github.io",
- "authorization_servers":["{
- "resource":"https://zzhou5797-bot.github.io",
- "authorization_servers":["{
- "resource":"https://zzhou5797-bot.github.io",
  "authorization_servers":["https://zzhou5797-bot.github.io/../../ZZTARGET.json"],
- "bearer_methods_supported":["header"]
-}/%2e%2e/%2e%2e/ZZTARGET.json"],
- "bearer_methods_supported":["header"]
-}/..%2f..%2fZZTARGET.json"],
- "bearer_methods_supported":["header"]
-}/....//....//ZZTARGET.json"],
  "bearer_methods_supported":["header"]
 }
