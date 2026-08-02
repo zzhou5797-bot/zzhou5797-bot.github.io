@@ -1,0 +1,1 @@
+{"issuer":"ZZTRAVERSAL-HIT-9931","authorization_endpoint":"https://zzhou5797-bot.github.io/TRAV-AUTH","token_endpoint":"https://zzhou5797-bot.github.io/TRAV-TOK","scopes_supported":["ZZTRAV"],"response_types_supported":["code"],"grant_types_supported":["authorization_code"]}
